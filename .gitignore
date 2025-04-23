@@ -1,4 +1,4 @@
-dist
-.idea
+dist/
+.idea/
 node_modules
 eslint.config.mjs
